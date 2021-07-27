@@ -9,6 +9,8 @@
     "hardhat": "^2.5.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.2.0"
+    "@openzeppelin/contracts": "^4.2.0",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "1.3.5"
   }
 }
